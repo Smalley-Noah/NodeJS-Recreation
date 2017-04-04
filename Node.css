@@ -1,0 +1,21 @@
+body{
+  background-color: : black;
+}
+Section{
+  background-color: #888;
+width: 1000px
+height: 200px
+}
+section p{
+  text-align: center;
+}
+section div{
+  width: 100%;
+  color: #fff;
+}
+div{
+  background-color: #fff;
+  width: 400px;
+  height: inherit;
+  margin: 0 inherit;
+}
